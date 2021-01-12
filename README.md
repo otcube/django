@@ -1,2 +1,2 @@
-# python
-python sample codes
+# django
+django python sample codes
